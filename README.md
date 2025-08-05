@@ -27,17 +27,17 @@ Transformar la gestión tradicional de restaurantes mediante una solución tecno
 ### 🔐 **Sistema de Autenticación Seguro**
 *Interfaz de login con validación de credenciales y control de acceso por roles*
 
-![Login Interface](https://via.placeholder.com/800x500/2C3E50/FFFFFF?text=Sistema+de+Login+Seguro)
+<img src="docs/images/login.png" alt="Login Interface" width="800">
 
 ### 💰 **Módulo de Ventas Intuitivo**
 *Procesamiento rápido de pedidos con interfaz optimizada para alta demanda*
 
-![Sales Interface](https://via.placeholder.com/800x500/27AE60/FFFFFF?text=Interfaz+de+Ventas+Profesional)
+<img src="docs/images/ventas.png" alt="Sales Interface" width="800">
 
 ### 📊 **Dashboard de Business Intelligence**
 *Generación de reportes dinámicos y análisis de rendimiento*
 
-![Reports Dashboard](https://via.placeholder.com/800x500/8E44AD/FFFFFF?text=Dashboard+de+Reportes+Avanzados)
+<img src="docs/images/dashboard.png" alt="Reports Dashboard" width="800">
 
 ---
 
