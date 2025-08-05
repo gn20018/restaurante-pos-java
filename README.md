@@ -218,11 +218,9 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo `LICENSE` para más det
 
 ## 👨‍💻 **Autor**
 
-**Álvaro** - *Desarrollador Full Stack*
-- 💼 LinkedIn: [Tu perfil de LinkedIn]
-- 📧 Email: [tu.email@ejemplo.com]
-- 🌐 Portfolio: [tu-portfolio.com]
-
+**Álvaro Correa** - *Desarrollador Full Stack*
+- 💼 LinkedIn: www.linkedin.com/in/alvarocorreagastelo
+- 📧 Email: acorreag19@hotmail.com
 ---
 
 <div align="center">
