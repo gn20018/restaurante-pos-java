@@ -37,7 +37,7 @@ Transformar la gestión tradicional de restaurantes mediante una solución tecno
 ### 📈 **Estadísticas y Reportes**
 *Historial de ventas con filtros por rango de fechas y generación de reportes PDF con JasperReports*
 
-<img src="docs/images/estadisticas-historial.png" alt="Historial de Ventas (Tabla filtrable)" width="800">
+<img src="docs/images/estadisticas-ventas.png" alt="Historial de Ventas (Tabla filtrable)" width="800">
 <img src="docs/images/reporte-ventas-jasper.png" alt="Reporte de Ventas (JasperReports)" width="800">
 
 ---
