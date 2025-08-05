@@ -34,10 +34,11 @@ Transformar la gestión tradicional de restaurantes mediante una solución tecno
 
 <img src="docs/images/ventas.png" alt="Sales Interface" width="800">
 
-### 📊 **Dashboard de Business Intelligence**
-*Generación de reportes dinámicos y análisis de rendimiento*
+### 📈 **Estadísticas y Reportes**
+*Historial de ventas con filtros por rango de fechas y generación de reportes PDF con JasperReports*
 
-<img src="docs/images/dashboard.png" alt="Reports Dashboard" width="800">
+<img src="docs/images/estadisticas-historial.png" alt="Historial de Ventas (Tabla filtrable)" width="800">
+<img src="docs/images/reporte-ventas-jasper.png" alt="Reporte de Ventas (JasperReports)" width="800">
 
 ---
 
@@ -80,7 +81,7 @@ Transformar la gestión tradicional de restaurantes mediante una solución tecno
 - **🔧 SwingX AutoComplete** - Funcionalidades UI extendidas
 
 ### **Reportes & Documentos**
-- **📊 JasperReports 6.0** - Motor de reportes empresariales
+- **📊 JasperReports 6.0** - Motor de reportes empresariales (reportes PDF desde filtros de fecha)
 - **📄 iText PDF 5.5.13** - Generación de documentos PDF
 - **📋 OpenPDF 1.3.30** - Manipulación avanzada de PDFs
 - **🌐 Flying Saucer PDF** - Renderizado HTML a PDF
@@ -91,6 +92,11 @@ Transformar la gestión tradicional de restaurantes mediante una solución tecno
 - **📊 Apache Commons** - Librerías de utilidades empresariales
 
 ---
+
+## 🧾 **Generación de Reportes con JasperReports**
+- Flujo: Selección de rango de fechas → Consulta a MySQL → Llenado del reporte (JasperFillManager) → Visualización (JasperViewer) y/o Exportación a PDF.
+- Plantillas: JRXML/Jasper con cabecera de empresa y tabla de ventas (Nro Venta, Empleado, Tipo Comprobante, Fecha, Cantidad, Montos y Estado).
+- Botón “Generar Reporte PDF” desde el módulo de Estadísticas.
 
 ## 🚀 **Instalación y Configuración**
 
